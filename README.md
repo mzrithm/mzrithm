@@ -1,4 +1,5 @@
 <img src="https://github.com/mzrithm/mzrithm/blob/f621fc27cf85391e6b453a0b4d5aab5bbeed5034/MZHillside.gif"/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on my **Bachelor's degree in Computer Science** at Oregon State University.
