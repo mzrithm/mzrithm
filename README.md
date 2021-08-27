@@ -1,4 +1,4 @@
-![Profile photo centered in front of a cartoon hillside with Michelle Zelechoski spelled out in the cliuds and a smal chicken pecking 2023 grdauation date.] (https://github.com/mzrithm/mzrithm/blob/f621fc27cf85391e6b453a0b4d5aab5bbeed5034/MZHillside.gif)
+<img src="https://github.com/mzrithm/mzrithm/blob/f621fc27cf85391e6b453a0b4d5aab5bbeed5034/MZHillside.gif"/>
 ### Hi there 👋
 
 - 🔭 I’m currently working on my **Bachelor's degree in Computer Science** at Oregon State University.
