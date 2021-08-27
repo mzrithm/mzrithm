@@ -1,4 +1,4 @@
-<img src="https://github.com/mzrithm/mzrithm/blob/f621fc27cf85391e6b453a0b4d5aab5bbeed5034/MZHillside.gif"/>
+<img src="https://github.com/mzrithm/mzrithm/blob/7742ebf0f83b7746998e4b58a2a49165fc2b55c0/MZHillside2.gif"/>
 
 ### Hi there 👋
 
