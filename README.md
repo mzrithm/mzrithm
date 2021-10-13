@@ -8,7 +8,7 @@
 
 - 🌱 I’m always learning! Right now I'm focused on **Python** and how to **write technical documentation**.
 
-- ❤️ **Interests:** Learning to Code 💻, Loving my Flock 🐓, Playing with my Dog 🐾, Writing 📝, and Reading a Lot 📘 
+- ❤️ **Interests:** Learning to `Code` 💻, Loving my Flock 🐓, Playing with my Dog 🐾, Writing 📝, and Reading a Lot 📘 
 
 - 📫 You can reach me on **LinkedIn**: https://www.linkedin.com/in/michelle-zelechoski/
 
