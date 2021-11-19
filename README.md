@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on my **Bachelor's degree in Computer Science** at Oregon State University.
 
+- 🔥 I'm the **Co-President** of the **OSU Hackathon Club** and I'm a **Teaching Assistant** for **Intro to Computer Science**.
+
 - 💼 I'm looking for an **internship** opportunity for the **Summer of 2022**.
 
 - 🎓 I'm **graduating** in **June of 2023**.
