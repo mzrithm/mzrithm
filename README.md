@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my **Bachelor's degree in Computer Science** at Oregon State University.
 
-- 🔥 I'm an incoming SDE intern at AWS.
+- 🔥 I'm an incoming **SDE Intern** at **AWS**.
 
 - 💼 I'm looking for a full-time junior position as a Software Development Engineer.
 
