@@ -10,7 +10,7 @@
 
 - ⚡ **Fun fact:** I was a full-time **metal artist** and **small business owner** before I fell in ❤️ with `coding`.
 
-- 🌱 I’m always learning! Right now I'm focused on **Python** and **Web Development**.
+- 🌱 I’m always learning! Right now I'm focused on **Mobile & Cloud Development**.
 
 - ❤️ **Interests:** Learning to `Code` 💻, Loving my Flock 🐓, Playing with my Dog 🐾, Writing 📝, and Reading a Lot 📘 
 
