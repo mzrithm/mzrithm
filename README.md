@@ -1,4 +1,4 @@
-<img src="https://github.com/mzrithm/mzrithm/blob/34428e1ff5096dcdb09115f6556702a70a74c48f/B.S.%20Computer%20Science.gif" width="50% height="50%"/>
+<img src="https://github.com/mzrithm/mzrithm/blob/34428e1ff5096dcdb09115f6556702a70a74c48f/B.S.%20Computer%20Science.gif" width="50%" height="50%"/>
 
 ### Hi there 👋
 
